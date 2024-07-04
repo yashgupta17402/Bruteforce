@@ -21,3 +21,11 @@ diagrams around a learning workspace to provide a complete context aware classro
 board learning. The unique form of the device aids in easing the learning aspects in high
 school and engineering levels thereby empowering the visually impaired students to take
 up the science and engineering fields in the future.
+## Goals and Objective
+In STEM (Science, Technology, Engineering, and Mathematics) education, student typically
+comes across exponential or logarithmic functions or even integral expressions at various
+times. Hence for comprehensive learning, one cannot ignore perceiving spatially located
+alpha-numeric characters for visually impaired students. Hence a device to assist or at least
+alert the blinds to move around the position is very beneficial.
+The wearable haptic design to addresses the challenges faced by blind individuals in
+reading and comprehending spatially distant written information.
