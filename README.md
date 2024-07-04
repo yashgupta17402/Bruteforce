@@ -1,4 +1,6 @@
 # BRUTEFORCE - Wearable-Haptic-braille-device-for-Blind
+![tv3](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/0cac9bf5-1b2e-4944-b03f-af12c4eb8a29)
+
 ## Existing Problem 
 Technological advances have enabled the development of various assistive solutions to aid
 the visually impaired in their daily activities. One of the primary focus that continues to
