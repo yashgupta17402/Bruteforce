@@ -1,4 +1,4 @@
-# Wearable-Haptic-braille-device-for-Blind
+# BRUTEFORCE - Wearable-Haptic-braille-device-for-Blind
 ## Existing Problem 
 Technological advances have enabled the development of various assistive solutions to aid
 the visually impaired in their daily activities. One of the primary focus that continues to
