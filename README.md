@@ -29,3 +29,30 @@ alpha-numeric characters for visually impaired students. Hence a device to assis
 alert the blinds to move around the position is very beneficial.
 The wearable haptic design to addresses the challenges faced by blind individuals in
 reading and comprehending spatially distant written information.
+## Key Features
+Real-time Haptic Feedback:
+
+o The wearable device provides real-time haptic changes that convert
+classroom teachings into braille representations.
+o It effectively translates spatially relevant information, including diagrams,
+signals, and graphs, which are crucial in STEM education.
+
+Comprehensive Classroom Integration:
+
+o The device is designed to map the entire classroom board context to
+visually impaired students.
+o It supports the learning of spatially located alphanumeric characters and
+complex expressions such as exponential and logarithmic functions.
+
+Affordability and Accessibility:
+
+o The solution aims to be economical, making it accessible to students from
+economically disadvantaged backgrounds.
+o It is designed to be used both in classroom settings and personal learning
+environments.
+Empowerment in STEM Fields:
+
+o By easing the learning process of high school and engineering concepts,
+the device empowers visually impaired students to pursue careers in
+science and engineering.
+
