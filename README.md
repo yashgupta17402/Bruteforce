@@ -101,6 +101,39 @@ science and engineering.
 | Motor-6    | D12                  |
 
 Ensure all connections are secure and double-check each component's datasheet for any additional requirements or notes.
+# Budget and Component Links
+
+This section provides the estimated budget for the project along with links to purchase the components.
+
+## Sensors and Hardware Components
+
+| Component               | Quantity | Unit Price (INR) | Total Price (INR) | Purchase Link                                                                 |
+|-------------------------|----------|------------------|-------------------|--------------------------------------------------------------------------------|
+| Distance Sensor         | 4        | 59               | 236               | [Buy Here](https://sharvielectronics.com/product/ultrasonic-distance-sensor-module-hc-sr04/)                              
+| Coin Vibration Motor    | 6        | 48               | 288               | [Buy Here](https://sharvielectronics.com/product/coin-vibration-motor-flat-1034-mobile-phone-vibrator-motor-10mm/)                           
+| Mini Rotating Motor     | 6        | 92               | 552               | [Buy Here](https://sharvielectronics.com/product/n20-12v-60rpm-micro-metal-gear-dc-motor-high-torque-with-jst-connector-and-dust-cover/)                            
+| 3D Prints               | 2       | 500               | 1000              | [Buy Here]                                     
+
+## Boards
+
+| Component               | Quantity | Unit Price (INR) | Total Price (INR) | Purchase Link                                                                 |
+|-------------------------|----------|------------------|-------------------|--------------------------------------------------------------------------------|
+| ESP32-c3                   | 1        | 536             | 536              | [Buy Here](https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wifi-and-ble-battery-charge-supported-module/)                                          |
+
+## Software
+
+| Component               | Quantity | Unit Price (INR) | Total Price (INR) | Purchase Link                                                                 |
+|-------------------------|----------|------------------|-------------------|--------------------------------------------------------------------------------|
+| White Board             | -        | -                | 1000              | [Buy Here]                                  |
+
+## Total Estimated Budget
+
+| Description             | Total Price (INR) |
+|-------------------------|-------------------|
+| Total Budget            | 3612              |
+
+
+
 
 
 
