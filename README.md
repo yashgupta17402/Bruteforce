@@ -55,7 +55,7 @@ Empowerment in STEM Fields:
 o By easing the learning process of high school and engineering concepts,
 the device empowers visually impaired students to pursue careers in
 science and engineering.
-## Bloc![tv](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/68c7fd33-e9ec-4bf6-a0e3-936e5ca22ac3)
-k Diagram
-![]()
+##Block Diagram
+![tv](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/68c7fd33-e9ec-4bf6-a0e3-936e5ca22ac3)
+
 
