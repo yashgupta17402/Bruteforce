@@ -126,20 +126,17 @@ This section provides the estimated budget for the project along with links to p
 |-------------------------|----------|------------------|-------------------|--------------------------------------------------------------------------------|
 | Velostat                | 1        | 470              | 470              | [Buy Here](https://www.thingbits.in/products/pressure-sensitive-conductive-sheet-velostat-linqstat/)                            
 | Coin Vibration Motor    | 6        | 48               | 288               | [Buy Here](https://sharvielectronics.com/product/coin-vibration-motor-flat-1034-mobile-phone-vibrator-motor-10mm/)                           
-| Mini Rotating Motor     | 6        | 92               | 552               | [Buy Here](https://sharvielectronics.com/product/n20-12v-60rpm-micro-metal-gear-dc-motor-high-torque-with-jst-connector-and-dust-cover/)                            
-| 3D Prints               | 2       | 500               | 1000              | [Buy Here]                                     
+| Multiplexer             | 2        | 46               | 92               | [Buy Here](https://sharvielectronics.com/product/cd74hc4067-16-channel-analog-digital-multiplexer-breakout-board-module/)     
+| Wires                   | 3        | 77               | 231              | [Buy Here](https://sharvielectronics.com/product/male-to-male-jumper-wire-connector-40-pieces/)) 
+| 3D Prints               | 2        | 500              | 1000              | [Buy Here]                                     
 
 ## Boards
 
 | Component               | Quantity | Unit Price (INR) | Total Price (INR) | Purchase Link                                                                 |
 |-------------------------|----------|------------------|-------------------|--------------------------------------------------------------------------------|
-| ESP32-c3                   | 1        | 536             | 536              | [Buy Here](https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wifi-and-ble-battery-charge-supported-module/)                                          |
+| ESP32-c3                   | 1        | 536             | 536              | [Buy Here](https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wifi-and-ble-battery-charge-supported-module/) 
+| Arduino uno                | 1        | 475             | 475              | [Buy Here](https://sharvielectronics.com/product/uno-r3-development-board-compatible-with-arduino/)     |
 
-## Software
-
-| Component               | Quantity | Unit Price (INR) | Total Price (INR) | Purchase Link                                                                 |
-|-------------------------|----------|------------------|-------------------|--------------------------------------------------------------------------------|
-| White Board             | -        | -                | 1000              | [Buy Here]                                  |
 
 ## Total Estimated Budget
 
