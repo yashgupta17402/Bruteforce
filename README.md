@@ -144,6 +144,10 @@ This section provides the estimated budget for the project along with links to p
 |-------------------------|-------------------|
 | Total Budget            | 3,092              |
 
+# Video Link
+
+https://www.youtube.com/watch?v=IVXHGGN1Nxs
+
 # Future Work
 The future work will include refining the design and including the six braille pins in a wearable form to make a single device for studying shapes and text in a single device. We plan to make a smart whiteboard for teacher to draw the shapes and write words. Also future work will include coming up with better Machine Learning Models to
 convert written text to braile formats.
