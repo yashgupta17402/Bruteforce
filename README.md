@@ -124,7 +124,7 @@ This section provides the estimated budget for the project along with links to p
 
 | Component               | Quantity | Unit Price (INR) | Total Price (INR) | Purchase Link                                                                 |
 |-------------------------|----------|------------------|-------------------|--------------------------------------------------------------------------------|
-| Distance Sensor         | 4        | 59               | 236               | [Buy Here](https://sharvielectronics.com/product/ultrasonic-distance-sensor-module-hc-sr04/)                              
+| Velostat                | 1        | 470              | 470              | [Buy Here](https://www.thingbits.in/products/pressure-sensitive-conductive-sheet-velostat-linqstat/)                            
 | Coin Vibration Motor    | 6        | 48               | 288               | [Buy Here](https://sharvielectronics.com/product/coin-vibration-motor-flat-1034-mobile-phone-vibrator-motor-10mm/)                           
 | Mini Rotating Motor     | 6        | 92               | 552               | [Buy Here](https://sharvielectronics.com/product/n20-12v-60rpm-micro-metal-gear-dc-motor-high-torque-with-jst-connector-and-dust-cover/)                            
 | 3D Prints               | 2       | 500               | 1000              | [Buy Here]                                     
