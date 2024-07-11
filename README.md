@@ -3,7 +3,11 @@
 </br>
 
 ## Touch Screen 
+The Velostat sheet touch screen is interfaced with this code to read touch inputs. The 15x15 pressure matrix detects the touch points, allowing the device to trace finger movements.
+The raw sensor values from the touch screen are read and .are  sent to the python for further processing .
+
 ![grid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/fd72a646-66b9-4e22-ad50-5aef6ba83394)
+
 </br>
 ## Touch Screen with haptic glove
 ![glove_withgrid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/a32d0b1d-7a59-43f3-aeef-9e5a6e9345cc)
