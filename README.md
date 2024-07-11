@@ -142,7 +142,7 @@ This section provides the estimated budget for the project along with links to p
 
 | Description             | Total Price (INR) |
 |-------------------------|-------------------|
-| Total Budget            | 3612              |
+| Total Budget            | 3,092              |
 
 
 
