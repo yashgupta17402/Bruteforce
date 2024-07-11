@@ -1,6 +1,11 @@
 # BRUTEFORCE - Wearable-Haptic-braille-device-for-Blind
 ![tv3](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/0cac9bf5-1b2e-4944-b03f-af12c4eb8a29)
 </br>
+
+## Touch Screen 
+![grid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/fd72a646-66b9-4e22-ad50-5aef6ba83394)
+</br>
+## Touch Screen with haptic glove
 ![glove_withgrid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/a32d0b1d-7a59-43f3-aeef-9e5a6e9345cc)
 
 ## Existing Problem 
