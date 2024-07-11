@@ -10,7 +10,9 @@ The raw sensor values from the touch screen are read and .are  sent to the pytho
 
 </br>
 ## Touch Screen with haptic glove
-![glove_withgrid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/a32d0b1d-7a59-43f3-aeef-9e5a6e9345cc)
+
+![glove_withgrid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/978cbd64-94aa-413c-b493-28e18252146f)
+
 
 ## Existing Problem 
 Technological advances have enabled the development of various assistive solutions to aid
