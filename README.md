@@ -165,9 +165,26 @@ This section provides the estimated budget for the project along with links to p
 
 https://youtu.be/BlAvIPSyD9E
 
+
 # Future Work
-The future work will include refining the design and including the six braille pins in a wearable form to make a single device for studying shapes and text in a single device. We plan to make a smart whiteboard for teacher to draw the shapes and write words. Also future work will include coming up with better Machine Learning Models to
-convert written text to braile formats.
+Our future work will focus on several key areas to refine and expand the current project. These include:
+
+##1. Refinement of Design:
+We aim to enhance the current design to incorporate six Braille pins within a wearable device. This integration will enable users to study both shapes and text through a single, convenient device. By making the device wearable, it will be more accessible and user-friendly, providing a seamless experience for users, especially those with visual impairments.
+
+##2. Development of a Smart Whiteboard:
+We plan to develop a smart whiteboard that will enable teachers to draw shapes and write words, which will then be converted into Braille in real-time. This innovation will facilitate interactive learning environments, making it easier for visually impaired students to follow along with lessons and engage with the material being taught. The smart whiteboard will utilize advanced sensors and software to capture and translate written content accurately.
+
+##3. Enhancement of Machine Learning Models:
+Future work will also focus on developing more sophisticated Machine Learning models to improve the accuracy and efficiency of converting written text into Braille formats. By leveraging advanced algorithms and larger datasets, we aim to create models that can better understand and translate a wider variety of handwriting styles and printed fonts into Braille. This will ensure that the system can handle diverse inputs and provide reliable Braille outputs for users.
+
+##5. Integration with Other Assistive Technologies:
+To enhance the overall learning experience, we plan to integrate our device with other assistive technologies, such as screen readers and tactile graphics displays. This will create a more comprehensive educational toolkit for visually impaired users, allowing them to access a wider range of learning materials and resources.
+
+##6. Scalability and Cost-Effectiveness:
+Finally, we will explore ways to make the device scalable and cost-effective, aiming to make it widely accessible to educational institutions and individuals. This will involve optimizing the production process and exploring funding opportunities to support the widespread adoption of the technology.
+
+
 
 
 
