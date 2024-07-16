@@ -2,6 +2,15 @@
 ![tv3](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/0cac9bf5-1b2e-4944-b03f-af12c4eb8a29)
 </br>
 
+# Table of Contents
+1. [Existing Problem ](#existing-problem)
+2. [Overview](#overview)
+3. [IGoals and Objective](#goals-and-objective)
+4. [Block Diagram and Ciruit Diagram](#block-diagram-and-circuit-diagram)
+5. [Sensors and Hardware Components](#sensors-and-hardware-components)
+6. [Video Link](#video-link)
+
+
 ## Touch Screen 
 The Velostat sheet touch screen is interfaced with this code to read touch inputs. The 15x15 pressure matrix detects the touch points, allowing the device to trace finger movements.
 The raw sensor values from the touch screen are read and .are  sent to the python for further processing .
