@@ -5,7 +5,7 @@
 # Table of Contents
 1. [Existing Problem ](#existing-problem)
 2. [Overview](#overview)
-3. [IGoals and Objective](#goals-and-objective)
+3. [Goals and Objective](#goals-and-objective)
 4. [Block Diagram and Ciruit Diagram](#block-diagram-and-circuit-diagram)
 5. [Sensors and Hardware Components](#sensors-and-hardware-components)
 6. [Video Link](#video-link)
