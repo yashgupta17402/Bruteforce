@@ -23,6 +23,13 @@ The raw sensor values from the touch screen are read and .are  sent to the pytho
 
 ![glove_withgrid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/978cbd64-94aa-413c-b493-28e18252146f)
 
+</br>
+
+## Whiteboard for classroom experience
+
+![whiteboard](https://github.com/user-attachments/assets/43983c42-4576-4f10-b3bb-7f51dde8cc01)
+
+
 
 ## Existing Problem 
 Technological advances have enabled the development of various assistive solutions to aid
