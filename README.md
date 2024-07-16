@@ -9,6 +9,7 @@ The raw sensor values from the touch screen are read and .are  sent to the pytho
 ![grid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/fd72a646-66b9-4e22-ad50-5aef6ba83394)
 
 </br>
+
 ## Touch Screen with haptic glove
 
 ![glove_withgrid](https://github.com/yashgupta17402/Bruteforce/assets/115718968/978cbd64-94aa-413c-b493-28e18252146f)
