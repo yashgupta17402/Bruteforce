@@ -29,9 +29,18 @@ The raw sensor values from the touch screen are read and .are  sent to the pytho
 
 ![whiteboard](https://github.com/user-attachments/assets/43983c42-4576-4f10-b3bb-7f51dde8cc01)
 
+## Work Flow of Device
+![pics](https://github.com/user-attachments/assets/f0122c93-8a74-4631-a179-2ae510487ad1)
+
+## Components
+![full_device](https://github.com/user-attachments/assets/182f213d-0705-41c2-ba40-01632cd1c555)
+
+## Velostat touch screen connections
+![WhatsApp Image 2024-07-17 at 14 56 06](https://github.com/user-attachments/assets/4aed4e27-06fa-4880-bb40-6b33cb8de83c)
 
 
 ## Existing Problem 
+
 Technological advances have enabled the development of various assistive solutions to aid
 the visually impaired in their daily activities. One of the primary focus that continues to
 persists is in developing an effective learning device that helps to not only read the
@@ -166,11 +175,11 @@ This section provides the estimated budget for the project along with links to p
 https://youtu.be/BlAvIPSyD9E
 
 # Code Description
-## drawing.py 
+### drawing.py 
 Traces the hand movement on the touchscreen
-## merge.py 
+### merge.py 
 webserver which tracks the tracing of an identified figure of the professor
-## output.py
+### output.py
 Used to send commands to esp32 to make decisions about motor
 
 
