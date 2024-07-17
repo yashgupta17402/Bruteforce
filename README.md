@@ -105,23 +105,18 @@ science and engineering.
 
 # Component Connections
 
-## Distance Sensor (X)
+## Velostat Sensor (X)
 | Sensor Pin | Microcontroller Pin |
 |------------|----------------------|
 | VCC        | VCC                  |
-| GND        | GND                  |
-| SDA        | SDA                  |
-| SCL        | SCL                  |
-| Signal     | D1                   |
+| A0         | A0 THROUGH RESISTOR  |               |
 
-## Distance Sensor (Y)
+
+## Velostat Sensor (Y)
 | Sensor Pin | Microcontroller Pin |
 |------------|----------------------|
 | VCC        | VCC                  |
-| GND        | GND                  |
-| SDA        | SDA                  |
-| SCL        | SCL                  |
-| Signal     | D2                   |
+| A1         | A1 THROUGH RESISTOR  |  
 
 ## Coin Vibration Motor
 | Motor Pin  | Microcontroller Pin |
