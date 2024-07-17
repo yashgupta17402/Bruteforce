@@ -8,7 +8,9 @@
 3. [Goals and Objective](#goals-and-objective)
 4. [Block Diagram and Circuit Diagram](#block-diagram-and-circuit-diagram)
 5. [Sensors and Hardware Components](#sensors-and-hardware-components)
-6. [Video Link](#video-link)
+6. [Code Description](#code-description)
+7. [Video Link](#video-link)
+8. 
 
 
 ## Touch Screen 
@@ -178,6 +180,10 @@ Traces the hand movement on the touchscreen
 webserver which tracks the tracing of an identified figure of the professor
 ### output.py
 Used to send commands to esp32 to make decisions about motor
+### server.js ,board.html,whiteboard.js
+Used for professor side's whiteboard .It saves the drawing drawn on whiteboard on server.
+### shapes.py
+Used for identifying shape of figure drawn.
 
 
 # Future Work
