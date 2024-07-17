@@ -10,6 +10,7 @@
 5. [Sensors and Hardware Components](#sensors-and-hardware-components)
 6. [Code Description](#code-description)
 7. [Video Link](#video-link)
+8. [Future Work](#future-work)
  
 
 
