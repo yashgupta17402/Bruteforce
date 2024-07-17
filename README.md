@@ -98,8 +98,9 @@ Empowerment in STEM Fields:
 o By easing the learning process of high school and engineering concepts,
 the device empowers visually impaired students to pursue careers in
 science and engineering.
-## Block Diagram and Ciruit Diagram
-![tv](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/68c7fd33-e9ec-4bf6-a0e3-936e5ca22ac3)
+## Block Diagram and Circuit Diagram
+![WhatsApp Image 2024-07-17 at 15 04 12 (1)](https://github.com/user-attachments/assets/4f06201e-4ab6-4fad-afb8-33e4d0954de2)
+
 ![tv2](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/25a1bff5-26a6-4932-b36c-d7970cf73002)
 </br>
 ## Velostat touch screen connections
