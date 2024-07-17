@@ -35,8 +35,7 @@ The raw sensor values from the touch screen are read and .are  sent to the pytho
 ## Components
 ![full_device](https://github.com/user-attachments/assets/182f213d-0705-41c2-ba40-01632cd1c555)
 
-## Velostat touch screen connections
-![WhatsApp Image 2024-07-17 at 14 56 06](https://github.com/user-attachments/assets/4aed4e27-06fa-4880-bb40-6b33cb8de83c)
+
 
 
 ## Existing Problem 
@@ -99,6 +98,9 @@ science and engineering.
 ## Block Diagram and Ciruit Diagram
 ![tv](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/68c7fd33-e9ec-4bf6-a0e3-936e5ca22ac3)
 ![tv2](https://github.com/yashgupta17402/Wearable-Haptic-braille-device-for-Blind/assets/115718968/25a1bff5-26a6-4932-b36c-d7970cf73002)
+</br>
+## Velostat touch screen connections
+![WhatsApp Image 2024-07-17 at 14 56 06](https://github.com/user-attachments/assets/4aed4e27-06fa-4880-bb40-6b33cb8de83c)
 </br>
 
 # Component Connections
